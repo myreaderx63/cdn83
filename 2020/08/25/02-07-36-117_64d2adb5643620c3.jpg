@@ -1,0 +1,535 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="alternate" type="application/rss+xml" title="DesktopLinux News" href="http://www.desktoplinux.com/backend/headlines.xml">
+<link rel="stylesheet" type="text/css" href="style.css" title="MyCSS"/>
+<link rel="shortcut icon" href="images/favicon.ico">
+<title>DesktopLinux.com -- All About Linux on the Desktop</title>
+<meta name="keywords" content="Linux, desktop, kernel, GPL, open source, applications, software, GNOME, KDE, Red Hat, SuSE, Novell, Debian, Mandriva, Xandros, Linspire, Knoppix, Ubuntu.">
+<meta name="description" content="News, views, and articles on using Linux on enterprise and end-user desktops.">
+</head>
+<body bgcolor="#FFFFFF" text="#000000" topmargin="0">
+<font size="1">
+<!-- SiteCatalyst code version: H.17.  Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="cgi-bin/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!-- 
+// You may give each page an identifying name, server, and channel on the next lines. 
+s.pageName="DesktopLinux.com -- All About Linux on the Desktop - "
+s.server=""
+s.channel="Desktop Linux -> "
+s.pageType=""
+s.prop1="DesktopLinux.com -- All About Linux on the Desktop"
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+// Conversion Variables 
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+// DO NOT ALTER ANYTHING BELOW THIS LINE ! 
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+//--></script><noscript><img src="b/ss/ziffdavisdesktoplinux/1/H-17--NS/0.jpg" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
+</font>
+<!-- begin banner tag -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="728"><tr><td><center>
+<iframe src="files/script__tavc2x8bvpuhsyzibwtezq.html" width="728" height="90" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" hspace="0">
+		<img src="http://ad.doubleclick.net/ad/entzd.desktoplinux/desktop;pos=top;dcopt=ist;zdid=a221772;tile=1;sz=728x90;ord=<script=JavaScript>document.write(Math.round(Math.random()*10000000000));</script>" style="border:0; height: 90; width:728;"/>
+		</iframe>
+</center></td></tr></table>
+<!-- End banner tag -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td valign="middle" align="left" width="410"><table border="0" valign="bottom" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="bottom" align="left">
+    <a href="/">
+    <img border="0" src="images/dl-logo-full.gif" alt="DesktopLinux"></a>
+    </td>
+  </tr>
+</table></td>
+    <td valign="middle" align="right">
+      <table border="0" width="150" cellpadding="0" cellspacing="0">
+  <!-- vertical spacer follows - remove if not required -->
+        <tr>
+          <td height="5"></td>
+        </tr>
+        <tr>
+          <td width="200" align="center" nowrap><font face="Arial,Helvetica" size="1">
+           <!-- Click here to learn<BR>about this Sponsor: --> </font></td>
+        </tr>
+        <tr>
+          <td align="center">
+<!-- removed -space bannerAds2 --></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr><td height="5"></td></tr>
+  <tr><td colspan="2" align="left"><font face="Arial,Helvetica" size="2">
+<a href="/"><b>Home</b></a> &nbsp;|&nbsp;
+<a href="news.html"><b>News</b></a> &nbsp;|&nbsp;
+<a href="articles.html"><b>Articles</b></a> &nbsp;|&nbsp;
+<a href="/"><b>Forum</b></a> &nbsp;|&nbsp;
+<a href="http://desktoplinux.com/cgi-bin/survey/survey.cgi"><b>Polls</b></a> &nbsp;|&nbsp;
+<b>Blogs</b> &nbsp;|&nbsp;
+<b>Videos</b> &nbsp;|&nbsp;
+<b>Resource Library</b> </font></td></tr>
+  <tr><td height="5"></td></tr>
+</table>
+<!-- Search Form ================== -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td>
+<table width="100%" cellspacing="0" cellpadding="0" bgcolor="#b5c7ef" border="1">
+<tr><form action="http://desktoplinux.com/cgi-bin/search_view.cgi" method="POST"><td align="center">
+<br>
+      <small>Search:&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="checkbox" name="snews" value="checked" checked>News&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="checkbox" name="sarticle" value="checked">Articles</small><br>
+      <small>Keywords:</small> <input type="text" name="sk" size="25" value="">
+      <small>Match:</small>
+      <select name="st" size="1">
+        <option value="all" selected>All keywords</option>
+        <option value="any">Any keyword </option>
+        <option value="exact">Exact phrase</option>
+      </select>
+      <input type="submit" name="view" value="Search">
+    </td></form></tr></table>
+        </td></tr></table>
+<table width="100%" cellpadding="2">
+  <tr>
+<!-- to enable left column, uncomment the following line  -->
+<!--    <td valign="top" width="18%"> -->
+<!-- also, add hash at left of include on next line and remove spaces
+around the expression -->
+<!-- include virtual="/files/columnleft.html" -->
+<!-- finally, uncomment following line to enable left column -->
+<!--    </td>  -->
+    <td width="64%" valign="top">
+<table>
+  <tr><td><table width="100%">
+  <tr>
+    <td>
+      <table border="1" cellpadding="2" width="100%" cellspacing="0">
+    <tr>
+      <th width="100%" bgcolor="#b5c7ef">
+        <font face="Arial,Helvetica" size="3">News</font></th>
+    </tr>
+    <tr>
+      <td>
+        <table>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS4966284750.html">DesktopLinux.com acquired ...</a></b> &#151; <!-- 1234567890123456789901234567890123456789000000000000000000000000000000000000000000000000000000000000000  --></i>DesktopLinux.com</i>'s publisher, Ziff-Davis Enterprise, has been acquired by a Californian company -- as yet undisclosed, but rumored to be Foster City-based <u>QuinStreet</u>. Future plans for the site have not yet been announced ...  At this point, the future of <i>DesktopLinux.com</i> is uncertain. What we can say  ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5438696135.html">Red Hat unveils 10-year support plan</a></b> &#151; Red Hat has extended the life cycle of Red Hat Enterprise Linux (RHEL) 5 and 6 from seven to 10 years, with RHEL 6 now supported through 2020. Meanwhile, Linux kernel maintainer Greg Kroah-Hartman left Red Hat rival SUSE to join the Linux Foundation as a fellow.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5394047765.html">KDE 4.8 adds adaptive power management, new windowing tricks</a></b> &#151; Version 4.8 of the KDE desktop environment and software bundle was released, featuring improved, adaptive power management and new windowing layouts. KDE 4.8 is also faster and more stable, and offers new features like Qt Quick-based Plasma widgets and the KDE Telepathy IM framework, says the community.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5606476749.html">Ubuntu 12.10 will bypass menus via predictive search </a></b> &#151; Canonical unveiled a search-oriented Head-Up Display (HUD) interface that will debut in Ubuntu 12.04. Aiming to reduce dependence on menus and eventually replace them with the help of gesture and voice interactions, HUD could find its way into future versions of Ubuntu designed for smartphones and TVs.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS7878870944.html">Red Hat, Ubuntu, and Arch Linux patch Linux kernel exploit </a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/tux2.jpg">Canonical, Red Hat, and Arch Linux have released patches that fix a vulnerability in Linux kernels 2.6.39 and above that enable attackers to gain system root access. The distro patches followed a kernel patch to fix the vulnerability, but proof-of-concept exploit code examples have already been posted.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS8012945624.html">'Cinnamon' GNOME 3 fork now 'fully stable' with version 1.2</a></b> &#151; The Linux Mint team announced a "fully stable" version of its "Cinnamon" fork of GNOME 3.x. Available for several major Linux distributions, Cinnamon 1.2 is more customizable than GNOME 3.x, restores much of the GNOME 2.x interface, and adds features such as desktop effects and layout options.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5075762402.html">Linux gains share on enterprise servers -- and desktops, too</a></b> &#151; Linux jumped to 1.4 percent desktop market share from 0.97 percent in July, according to Net Applications. Meanwhile, a Linux Foundation survey on enterprise Linux says 79.8 percent of organizations are planning to increase their Linux deployments, citing affordability, technical features, and security as Linux advantages.    ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS2803325460.html">  Linux Foundation tips 2012 schedule, sends LinuxCon to San Diego</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/tux2.jpg">The Linux Foundation posted a calendar of its 2012 conferences. These include the Linux Kernel Summit, which will be held Aug. 26-28 in San Diego, where it will be co-located with the larger LinuxCon North America event and the Linux Plumbers Conference, both held Aug. 29-31.    ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5058390071.html">Linux 3.2 goes bigtime on file systems, improves thin provisioning</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/tux2.jpg">Linus Torvalds announced the release of the Linux 3.2 kernel, featuring file-system enhancements such as support for Ext4 block sizes up to 1MB, and faster Btrfs scrubbing. Linux 3.2 also adds some process scheduler improvements, better thin provisioning support, and new Wi-Fi, graphics, and DSP drivers.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS7818519637.html">CentOS and Oracle release their Red Hat 6.2 clones</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/centos-thm.jpg">A week after releasing CentOS 6.1, the CentOS project launched version 6.2 of the Red Hat Enterprise Linux (RHEL) clone, while Oracle released its own RHEL 6.2 variant with Oracle Linux 6.2. Meanwhile, Red Hat unveiled a beta of RHEL 5.8, and announced strong third-quarter earnings.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS7508546730.html">CentOS turns 6.1, still trails Red Hat by a lap</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/centos-thm.jpg">CentOS 6.1 has arrived to bring the features of Red Hat Enterprise Linux 6.1 to those who can live without a Red Hat subscription. CentOS 6.1 offers non-proprietary improvements found in RHEL 6.1, including virtualization performance optimizations, enhanced development tools, and some YUM package management enhancements.    ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS4987735027.html">How to replace Ubuntu 11.10's Unity desktop with good ol' GNOME</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/ubuntu1110_deviceguru_thm.jpg">Ubuntu users who dislike the Unity desktop environment have other alternatives besides sticking with "Maverick Meerkat" or jumping ship to another distro. An illustrated <i>DeviceGuru</i> tutorial shows how to load the GNOME Fallback mode on Ubuntu 11.10 and configure it to provide a GNOME 2.x-like experience.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS8416134956.html">Red Hat 6.2 scales up on multicore platforms</a></b> &#151; <!-- 1 2 3 --><img align="left" hspace="10" vspace="5" src="files/misc/redhat_logo_thm.jpg">Red Hat revised its enterprise-focused Red Hat Enterprise Linux (RHEL) distribution with claims for greater performance and scalability on multicore platforms. RHEL 6.2 also offers enhancements in resource management, high availability, storage and file system performance, and identity management, says the company.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS8804921439.html">Linux Mint 12 ships as distro's popularity soars</a></b> &#151; The Mint project released the final Linux Mint 12 ("Lisa"), which offers "MGSE" extensions to GNOME 3.2 that let users create a more GNOME 2.3x-like environment. Based on Ubuntu 11.10 and Linux 3.0, Linux Mint 12 features upgrades to Firefox 7.0, LibreOffice 3.4.3 and Thunderbird 7.0.1.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS4968533300.html">OpenSUSE 12.1 ships with GNOME 3.2, SystemD, Snapper, Go tools</a></b> &#151; The OpenSUSE project released OpenSUSE 12.1, featuring Linux 3.1, GNOME 3.2, KDE 4.7, plus support for KDE's "OwnCloud" cloud platform. OpenSUSE 12.1 introduces the SystemD configuration utility and Google's Go programming language, and integrates a Btrfs-based "Snapper" tool for rolling back system updates and configuration changes.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS6488425477.html">Linux Mint 12 RC1 adds GNOME 2.x-like extensions to GNOME 3.2 </a></b> &#151; Linux Mint 12 ("Lisa") RC1 was released, based on Ubuntu 11.10 and Linux 3.0. RC1 offers GNOME 3.2 -- but augments it with "MGSE" extensions designed to let users customize a GNOME 2.3x-like desktop environment -- and Mint also supplies a GNOME 2.x clone called MATE.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS3447958556.html">Fedora 16 released with GNOME 3.2, virtualization enhancements</a></b> &#151; The Fedora Project released Fedora 16 ("Verne"), featuring GNOME 3.2, as well as virtualization and cloud enhancements including Aeolus and OpenStack integration. Fedora 16 upgrades to Linux 3.1, the GRUB2 bootloader, and Firefox 7.0.1, while offering improved system settings, plus enhanced contact and document management apps.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5419553720.html">Linux 3.1 released with NFC support</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/tux.jpg">The Linux 3.1 kernel has been released several weeks late, providing enhancements to performance, virtualization, and power management. Linux 3.1 also includes support for near field communication (NFC), the OpenRISC open source CPU, Nintendo's Wii controller, and 3D acceleration with Nvidia GEForce graphics processor units (GPUs).   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS7310044850.html">XBMC-based embedded Linux distro debuts on HTPC mini-PC </a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/openelec2_thm.png">The OpenELEC project released an embedded Linux OS designed to run XBMC Media Center home theater PC (HTPC) software on x86 PCs. OpenELEC 1.0 offers a footprint of 80-130 MB, boots in less than 10 seconds, and is now available pre-installed on the Xtreamer Ultra mini-PC.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS2840688772.html">Puppy Linux 5.2 (Wary) optimized for older PCs</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/puppylinux_logo.png">The Puppy Linux project announced version 5.2 of the legacy-PC friendly "Wary" version of its small-footprint Linux distribution. Puppy Linux 5.2 ("Wary") features an upgrade path to Xorg 7.6, an updated PuppyPhone VoIP app, and a new PupCamera app for automatically detecting cameras, says the project.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS4159124951.html">Sabayon 7 tries on GNOME 3.2 plus experimental 'Fusion Kernel'</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/sabayon_sixld_thm.jpg">The Gentoo-based Sabayon 7.0 is now available, equipped with both an "ultra-optimized" version of the Linux 3.0 kernel and an experimental "Fusion Kernel."  Sabayon 7.0 offers a choice of GNOME 3.2, KDE 4.7, and Xfce 4.8 desktop environments, plus LibreOffice 3.4.3.2 and native support for Btrfs.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5819641918.html">Final Ubuntu 11.10 spiffs up Unity, adds ARM server support </a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/ubuntu_1110_final_thm.jpg">Ubuntu 11.10 ("Oneiric Ocelot") was released, featuring makeovers for its Unity desktop and Ubuntu Software Center, a switch to Thunderbird email, and a new Deja Dup backup tool. On the server side, Ubuntu 11.10 adds ARM support, as well as a new "Juju" cloud management framework.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS5890234816.html">Fedora, OpenSuse betas embrace GNOME 3.2</a></b> &#151; <img align="left" hspace="10" vspace="5" src="files/misc/fedora_fedora16_gnome3_register_thm.jpg">Betas from the the OpenSUSE and Fedora Linux distro projects have been released with GNOME 3.2 desktops. The Fedora 16 ("Verne") beta also adds support for the GRUB2 bootloader and cloud enhancements, while the OpenSUSE 12.1 ("Asparagus") beta moves to Systemd, and adds Btrfs file-system support.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS6948856710.html">Will Windows 8 block Linux installs?</a></b> &#151; <!-- 1 2 3 -->Windows 8's Unified Extensible Firmware Interface (UEFI) boot protocol could lead to eight-second boot times, but it could also be used to keep users from loading Linux on a Windows 8 PC, warns a Red Hat developer. Meanwhile, Casio signed a Linux-related patent agreement with Microsoft.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="2"><b>
+            <a href="news/NS6986608385.html">Lightweight Bodhi 1.2 distro offers Enlightenment for the Linux masses</a></b> &#151; <img align="left" vspace="5" hspace="10" src="files/misc/bodhi_thm.jpg">Lightweight Ubuntu derivative Bodhi Linux was released in a version 1.2 that moves up to Linux 3.0. Bodhi Linux 1.2 advances to the latest Enlightenment 17 window manager and version 0.4 of the Midori web browser, and features improved documentation, updated profiles, and new desktop themes.   ...<br>&nbsp;</font></td>
+      </tr>
+      <tr>
+        <td><font face="Arial,Helvetica" size="-1">
+            <br><a href="news/201109131214NS6986608385.html">More  News ...</a><br></font></td>
+      </tr>
+        </table>
+      </td>
+    </tr>
+      </table><br>
+    </td>
+  </tr>
+</table>
+</td></tr>
+  <tr><td>
+       <!-- end of article ads start here -->
+      <!--#include virtual="/files/storyend-search-and-index.html"-->
+       <!-- end of article ads end here -->
+    </td></tr>
+  <tr><td>
+<!-- the following hr-tag sets minimum column width -->
+<hr color="white" width="600">
+    </td></tr>
+</table>
+    </td>
+    <td width="18%" valign="top"><table width="100%" cellspacing="0" cellpadding="0"><tr><td><!-- column106.htm -->
+<!-- begin top section -->
+<br>
+<center><font face="arial, helvetica" size="2">
+<b><font color="#DE0000">Got a HOT tip?</font></b> &nbsp; 
+<a href="contactus.html"><u>please tell us!</u></a><br>
+</font></center>
+<table width="150" height="5" cellpadding="0" cellspacing="0" border="0"><tr><td></td></tr></table>
+<hr>
+<!-- begin MPU ad section -->
+<center><font face="arial, helvetica" size="1"><b>ADVERTISEMENT</b></font><br>
+<!-- begin MPU ad tag     -->
+<script language="javascript">
+var ord =  Math.round(Math.random()*10000000000000000); document.write('<iframe src="http://ad.doubleclick.net/adi/entzd.desktoplinux/desktop;kw=msembedded;pos=top;dcopt=ist;zdid=a221772;tile=1;sz=336x280;ord='+ ord +'?" width="336" height="280" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" hspace="5">'); 
+document.write('<a href="http://ad.doubleclick.net/jump/entzd.desktoplinux/desktop;kw=msembedded;pos=top;dcopt=ist;zdid=a221772;tile=1;sz=336x280;ord='+ ord +'?" target="_top"><img src="http://ad.doubleclick.net/ad/entzd.desktoplinux/desktop;abr=!ie; tile=1;sz=336x280;ord=' + ord + '?" border="0" height="280" width="336" hspace="5"></a></iframe>'); 
+</script>
+<!-- end MPU ad tag       -->
+</center>
+<center><font face="arial, helvetica" size="1">
+(<a href="contactus.html"><u>Advertise here</u></a>)
+</font></center>
+<!-- end MPU ad section -->
+<!-- end top section -->
+<hr>
+<!-- begin WBG feed -->
+<table border="1" bordercolor="#AAAAAA" cellpadding="5" cellspacing="0">
+<tr><td align="center" bgcolor="#AAAAAA"><font face="arial, helvetica" size="1" color="white">
+<b>Resource Library</b></font></td></tr>
+<tr><td bgcolor="white"><font face="arial, helvetica" size="1" color="#AAAAAA">
+<!--#include virtual="/backend/wbgfeeds/wbg_promo.html"-->
+</font><br>
+
+</td></tr></table>
+<!-- end WBG feed -->
+<hr color="white" width="180">
+<!-- begin middle section -->
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+<tr>
+<!-- begin middle-left cell -->
+<td width="50%" valign="top">
+<font face="arial, helvetica" size="2"><b>Popular recent stories:</b></font><br>
+<font face="arial, helvetica" size="1">
+&#149;&nbsp;<a href="news/NS3225467354.html">Linux an equal Flash player </a><br>
+&#149;&nbsp;<a href="news/NS2045641099.html">Linux, netbooks threaten Microsoft's fat profits</a><br>
+&#149;&nbsp;<a href="news/NS5319279647.html">gOS 3.0 goes gold</a><br>
+&#149;&nbsp;<a href="news/NS2750645189.html">Browser swallows OS</a><br>
+&#149;&nbsp;<a href="news/NS2988739865.html">Lenovo denies ditching Linux</a><br>
+&#149;&nbsp;<a href="news/NS6922044112.html">Lightweight, Linux-compatible browser evolves</a><br>
+&#149;&nbsp;<a href="news/NS9658660550.html">GNOME 2.24 gains "Empathy" IM </a><br>
+&#149;&nbsp;<a href="articles/AT3075127327.html">Review: Pardus Linux</a><br>
+&#149;&nbsp;<a href="news/NS6076357215.html">Ubuntu to fund Linux development</a><br>
+&#149;&nbsp;<a href="news/NS7385866600.html">Ubuntu "Intrepid Ibex" available</a><br>
+</font>
+<hr width="180">
+<font face="arial, helvetica" size="2"><b>All-time Classics:</b></font><br>
+<font face="arial, helvetica" size="1">
+&#149;&nbsp;<a href="articles/AT3269115798.html">Choosing a desktop Linux distro</a><br>
+&#149;&nbsp;<a href="articles/AT7150747782.html">Banshee -- the next best thing to Linux iTunes</a><br>
+&#149;&nbsp;<a href="news/NS4169902864.html">Running World of Warcraft on Ubuntu</a><br>
+&#149;&nbsp;<a href="articles/AT2280165098.html">A simple Linux backup method</a><br>
+&#149;&nbsp;<a href="articles/AT3135712364.html">The Best Free Desktop Linux . . . and how to make it better</a><br>
+&#149;&nbsp;<a href="news/NS5557994061.html">Linux-powered Asus Eee PC mini-laptop arrives</a><br>
+&#149;&nbsp;<a href="articles/AT8143350649.html">The well-tempered Debian desktop</a><br>
+&#149;&nbsp;<a href="news/NS4400501053.html">Lenovo launches a netbook</a><br>
+&#149;&nbsp;<a href="articles/AT5272648562.html">What's the best Linux for beginners?</a><br>
+&#149;&nbsp;<a href="articles/AT6545156120.html">Getting to know Puppy Linux</a><br>
+&#149;&nbsp;<a href="news/NS3073255522.html">Xandros 4: The best desktop Linux for Windows users</a><br>
+&#149;&nbsp;<a href="news/NS3656503933.html">VirtualBox: The best virtualization program you've never heard of</a><br>
+</font>
+<hr width="180">
+<font face="arial, helvetica" size="2"><b>Linux-Watch headlines:</b></font>
+<font face="arial, helvetica" size="1">
+ <!--#include virtual="/backend/lwheadlines/headlines10.html"-->
+</font>
+
+<br clear="all">
+<hr width="180">
+<font face="arial, helvetica" size="2"><b>Join our Desktop Linux discussion forums:</b><br></font>
+<font face="arial, helvetica" size="1">
+&#149;&nbsp;<a href="/">
+Moving to Linux</a><br>
+&#149;&nbsp;<a href="/">
+Linux/Windows debate!</a><br>
+&#149;&nbsp;<a href="/">
+Linux Q&A;</a><br>
+. . . and <a href="/"><u>more</u></a></font>
+</td>
+<!-- end middle-left cell -->
+<!-- begin middle-right cell -->
+<td width="50%" valign="top" align="center">
+<!-- start WBG promo -->
+<center>
+<font face="arial, helvetica" size="2"><b>Visit the...</b></font><br>
+<img border="0" src="images/dl-buyersguide.gif">
+</center>
+<!-- end WBG promo -->
+<br>
+<!-- start Google Marketplace ad -->
+<!-- end Google Marketplace ad -->
+</td>
+<!-- end middle-right cell -->
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<!-- begin middle-lower cell -->
+<td colspan="2">
+<!-- optional 2nd MPU section goes above here -->
+</td>
+<!-- end middle-lower cell -->
+</tr>
+</table>
+<!-- end middle section -->
+<!-- if 2nd MPU, then hr tag goes below here -->
+<!-- begin lower section -->
+<table width="100%" cellpadding="5" cellspacing="0" border="0">
+  <tr>
+<!-- begin lower-left cell -->
+    <td width="50%" valign="top">
+<table width="180" border="1" bordercolor="#DE0000" cellpadding="5" cellspacing="0">
+<tr><td align="center" bgcolor="#DE0000"><font face="arial, helvetica" size="2" color="white">
+<b>BREAKING NEWS</b></font></td></tr>
+<tr><td bgcolor="white"><font face="arial, helvetica" size="1" color="#DE0000">
+ <!--#include virtual="/backend/headlines15.html"-->
+</font><br>
+<a href="news.html" target="new">
+</a>
+</td></tr></table>
+<br>
+</td>
+<!-- end lower-left cell -->
+<!-- begin lower-right cell -->
+    <td width="50%" valign="top">
+<center>
+
+<br clear="all">
+<font face="arial, helvetica" size="2"><b>Linux Netbooks</b></font>
+</center>
+<hr width="180">
+<center>
+
+<br clear="all">
+<font face="arial, helvetica" size="2"><b>Linux smartphones!</b></font>
+</center>
+<!-- end lower right cell -->
+    </td>
+  </tr>
+</table>
+<!-- end lower section -->
+<center>
+ <!-- LinkExpert tag follows -->
+ <!-- restore hash mark at left of include to enable following line -->
+ <!--#include virtual="/cgi-bin/tlink.pl" -->
+</center>
+<table width="150" height="5" cellpadding="0" cellspacing="0" border="0"><tr><td></td></tr></table>
+<hr>
+<br>
+<center>
+<font face="arial, helvetica" size="2">
+<a href="backend/index.html" target="_blank">
+<img border="0" hspace="10" src="images/xml.gif">
+<u>news feed</u></a>
+<br><br>
+<b>Or, follow us on Twitter...</b>
+</font>
+<br>
+<img border="0" hspace="10" vspace="5" src="files/Twitterimgs/twitter_logo_ld.jpg">
+<img border="0" hspace="10" vspace="5" src="files/Twitterimgs/twitter_logo_wfd.gif">
+<img border="0" hspace="10" vspace="5" src="files/Twitterimgs/twitter_logo_dl.gif">
+<img border="0" hspace="10" vspace="5" src="files/Twitterimgs/twitter_logo_lw.gif">
+</center>
+</font>
+</center>
+</td></tr></table>
+</td>
+  </tr>
+</table>
+<!-------- page footer begins here -------->
+<hr>
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr><td colspan="2"><font face="Arial,Helvetica" size="2">
+<a href="/"><b>Home</b></a> &nbsp;|&nbsp;
+<a href="news.html"><b>News</b></a> &nbsp;|&nbsp;
+<a href="articles.html"><b>Articles</b></a> &nbsp;|&nbsp;
+<a href="/"><b>Forum</b></a> &nbsp;|&nbsp;
+<a href="http://desktoplinux.com/cgi-bin/survey/survey.cgi"><b>Polls</b></a> &nbsp;|&nbsp;
+<a href="aboutus.html"><b>About</b></a> &nbsp;|&nbsp;
+<a href="contactus.html"><b>Contact</b></a></font></td></tr>
+  <tr><td colspan="2">&nbsp;</td></tr>
+<!-- start zde footer links -->
+<tr>
+ <td width="118" valign="top">
+  <img src="images/zdelogo.jpg" align="left" border="0">
+ </td>
+ <td>
+  <p style="margin-top:5; font-family:arial,helvetica,sanserif; font-size:11px; font-weight:bold;"> 
+   Ziff Davis Enterprise Home&nbsp;| 
+   <a style="white-space:nowrap" rel="nofollow" href="contactus.html" title="Contact Us">Contact Us</a>&nbsp;| 
+   Advertise&nbsp;| 
+   <a style="white-space:nowrap" rel="nofollow" href="contactus.html" title="Link to Us">Link to Us</a>&nbsp;| 
+   <a rel="nofollow" href="contactus.html" title="Reprints">Reprints</a>&nbsp;| 
+   Magazine Subscriptions&nbsp;| 
+   Newsletters<br>
+   <a style="white-space:nowrap" rel="nofollow" href="/" title="RSS Feeds">Tech RSS Feeds</a>&nbsp;|
+   ROI Calculators&nbsp;|
+   <a style="white-space:nowrap" rel="nofollow" href="/" title="Tech Podcasts">Tech Podcasts</a>&nbsp;|
+   <a style="white-space:nowrap" rel="nofollow" href="/" title="Tech Video">Tech Video</a>&nbsp;| 
+   VARs | 
+   Channel News
+  </p>
+ </td>
+</tr>
+<tr align="left" valign="top" bgcolor="#ffffff">
+ <td>
+  <img src="images/spacer.gif" width="108" align="left" height="15">
+ </td>
+ <td>
+  <p style="margin-top:5; font-family:arial,helvetica,sanserif; font-size:11px; font-weight:bold;"> 
+   Baseline | 
+   Careers | 
+   Channel Insider | 
+   CIO Insight | 
+   <a rel="nofollow" href="/">DesktopLinux</a> | 
+   DeviceForge |
+   DevSource |
+   eSeminars |<br>
+   eWEEK | 
+   Enterprise Network Security |
+   LinuxDevices | 
+   Linux Watch  | 
+   Microsoft Watch | 
+   Mid-market | 
+   Networking |
+   PDF Zone |<br>
+   Publish |
+   Security IT Hub | 
+   Strategic Partner |
+   Web Buyer's Guide | 
+   Windows for Devices
+  </p>
+ </td>
+</tr>
+<tr align="left" valign="top" bgcolor="#ffffff">
+ <td>
+   <img src="images/spacer.gif" width="108" align="left" height="15">
+ </td>
+ <td>
+  <p style="margin-top:5; font-family:arial,helvetica,sanserif; font-size:11px; font-weight:bold;"> 
+   Developer Shed | 
+   Dev Shed | 
+   ASP Free | 
+   Dev Articles | 
+   Dev Hardware | 
+   SEO Chat | 
+   Tutorialized |
+   Scripts |<br>
+   Code Walkers | 
+   Web Hosters | 
+   Dev Mechanic | 
+   Dev Archives |
+   igrep
+   <br><br>
+  </p>
+ </td>
+</tr>
+<!-- end zde footer links -->
+  <tr>
+    <td colspan="2"><font face="Arial,Helvetica" size="2">
+Use of this site is governed by our <u>Terms of 
+Service</u> and <u>Privacy Policy</u>.
+Except where otherwise specified, the contents of this site are copyright &copy; 1999-2013
+<u>Ziff Davis Enterprise Holdings Inc.</u>  All Rights Reserved. 
+Reproduction in whole or in part in any form or medium without express written permission of Ziff Davis Enterprise is 
+prohibited. Linux is a registered trademark of Linus Torvalds. All other marks are the property of their respective owners.</font></td>
+  </tr>
+</table>
+<!-------- page footer ends here -------->
+</body>
+</html>
